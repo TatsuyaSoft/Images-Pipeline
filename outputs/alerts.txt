@@ -1,0 +1,1 @@
+[WARNING] wallpaperflare.com_wallpaper.jpg is too blurry: Score = 64.12962287767614
